@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**A1i98/A1i98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A1i98/A1i98/main/images.png" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$$
+Life=\int _{brith}^{death}\frac{happiness}{time}\Delta time\:=\infty 
+$$
+
+
+```python
+print("I was born")
+while alive:
+    eat()
+    code()
+    sleep()
+    if sad == True:
+        sad.stop()
+    if notSuccess == True:
+        tryAgain()    
+    print("I'm alive new day")
+print("I died")    
+```
