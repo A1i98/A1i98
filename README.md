@@ -19,6 +19,6 @@ while alive:
         sad.stop()
     if notSuccess == True:
         tryAgain()    
-    print("I'm alive new day")
+    print("I'm alive")
 print("I died")    
 ```
