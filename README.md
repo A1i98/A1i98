@@ -29,24 +29,29 @@ print("I died")
 
 **I am Ali Jm**
 
-**and I was born in 2001 January**
+**I was born in 2001 January**
 
-**and I live in Karaj.**
+**I live in Karaj**
 
-**I've been a programmer for 6+ years**
+**I am a student of aerospace engineering**
 
-+ **C# (Console)(Asp.MVC/Asp.RazorPage/Asp.Blazor)(WPF/WF)**
-+ **Python**
-+ **Lua**
-+ **C++**
-+ **Arduino**
-+ **Html-Css/Bootstrap**
+**I've been a programmer for 5+ years**
 
+
+>|  | |
+>| ------ | ------ |
+>|**C# (Console)(Asp.MVC/RazorPage/Blazor)(WPF/WF)** | `Advanced`
+>|**Python** | `Intermediate->Advanced`
+>|**Arduino** | `Intermediate`
+>|**Html-Css/Bootstrap** | `Beginner->Intermediate`
+>|**C++** | `Beginner->Intermediate`
+>|**Lua** | `Beginner`
 
 ---
 
 # Resumes
 
+### **Telegram Bots**
 
 | TelegramBot | Status | Users Count | Id |
 | ------ | ----------- | ----- | ---- |
@@ -57,9 +62,29 @@ print("I died")
 | Get a free vpn | Inactive | 100+ | @op**bot
 | Channel backup | Active | 10+ | @ba**bot
 | Converts files to links | Inactive | 200+ | @Fi**bot
-| Account management with 200+ account | Active | 1 | ********
+| Sales and support | Inactive | 300+ | @TI**bot
+| Account management with ***+ account | Active | 1 | ********
 | Advertising bot | Active | 1 | ********
 | Management Process on the server | Active | 1 | ********
+| Posting on WordPress site | Inactive | 1 | ********
+
+
+### **Console/WPF/WF**
+
+| The purpose | Name |
+| ------ | ---- |
+| Video download software | EasyYoutubeDl
+| Manage Instagram accounts | InstagramHelper
+| TCP Messenger | Messenger
+| Get a voice command in Windows | VoiceCommand
+| Auto save site with Selenium | UrlToFile
+| Automatically save links from the clipboard | GetLinks
+| Build Zarrinpal link for payment | ZarrinpalPayment
+
+
+
+
+
 
 
 
