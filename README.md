@@ -38,20 +38,31 @@ print("I died")
 **I've been a programmer for 5+ years**
 
 
->|  | |
+>| Language  | Skill  levels |
 >| ------ | ------ |
 >|**C# (Console)(Asp.MVC/RazorPage/Blazor)(WPF/WF)** | `Advanced`
 >|**Python** | `Intermediate->Advanced`
 >|**Arduino** | `Intermediate`
 >|**Html-Css/Bootstrap** | `Beginner->Intermediate`
 >|**C++** | `Beginner->Intermediate`
->|**Lua** | `Beginner`
+>|**Lua** | `Beginner->Intermediate`
+>|**JS** | `Beginner`
+
+
+
+>| Skills  | Skill  levels |
+>| ------ | ------ |
+>|**3D printing** | `Advanced`
+>|**Design with SolidWorks** | `Intermediate`
+
 
 ---
 
 # Resumes
 
+
 ### **Telegram Bots**
+
 
 | TelegramBot | Status | Users Count | Id |
 | ------ | ----------- | ----- | ---- |
@@ -69,7 +80,8 @@ print("I died")
 | Posting on WordPress site | Inactive | 1 | ********
 
 
-### **Console/WPF/WF**
+### **C#/Python/C++**
+
 
 | The purpose | Name |
 | ------ | ---- |
@@ -80,9 +92,19 @@ print("I died")
 | Auto save site with Selenium | UrlToFile
 | Automatically save links from the clipboard | GetLinks
 | Build Zarrinpal link for payment | ZarrinpalPayment
+| Wind tunnel information display software | `No proper name`
 
 
+### **Arduino**
 
+
+| The purpose | Microcontroller 
+| ------ | ------ |
+| IOT Blazor Server remote control | `WeMos D1 Mini`
+| Making an alarm device with motion detection capability | `WeMos D1 Mini`
+| IOT Automatic plant watering system | `Arduino Uno`
+| Two degrees of freedom camera control system | `Arduino Uno`
+| Pressure and temperature receiving system for wind tunnel | `Arduino Mega`
 
 
 
