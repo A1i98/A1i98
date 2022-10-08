@@ -79,6 +79,13 @@ print("I died")
 | Management Process on the server | Active | 1 | ********
 | Posting on WordPress site | Inactive | 1 | ********
 
+### **Bale messenger Bots**
+
+
+| BaleBot | Status | 
+| ------ | ----------- | 
+| Automatic message sending | Active 
+| Send notification | Active 
 
 ### **C#/Python/C++**
 
@@ -93,25 +100,18 @@ print("I died")
 | Automatically save links from the clipboard | GetLinks
 | Build Zarrinpal link for payment | ZarrinpalPayment
 | Wind tunnel information display software | `No proper name`
+| Bypass censorship program | `No proper name`
 
 
-### **Arduino**
+### **Microcontroller**
 
 
 | The purpose | Microcontroller 
 | ------ | ------ |
 | IOT Blazor Server remote control | `WeMos D1 Mini`
-| Making an alarm device with motion detection capability | `WeMos D1 Mini`
+| An alarm device with motion detection capability | `WeMos D1 Mini`
 | IOT Automatic plant watering system | `Arduino Uno`
 | Two degrees of freedom camera control system | `Arduino Uno`
 | Pressure and temperature receiving system for wind tunnel | `Arduino Mega`
-
-
-
-
-
-
-
-
-
-
+| Three-degrees of freedom table | `Pi Pico - MicroPython`
+| A4988 driver controller library for stepper motor | `Pi Pico - MicroPython`
