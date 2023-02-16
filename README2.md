@@ -5,7 +5,7 @@
 </p>
 
 $$
-Life=\int _{brith}^{death}\frac{happiness}{time}\Delta time\:=\infty 
+Life=\int _{brith}^{death}\frac{happiness}{time}\Delta time\=\infty 
 $$
 
 
@@ -13,13 +13,15 @@ $$
 print("I was born")
 while alive:
     eat()
+    youtube()
+    anime()
     code()
-    sleep()
-    if sad == True:
+    if sad:
         sad.stop()
-    if notSuccess == True:
+    if notSuccess:
         tryAgain()    
     print("I'm alive")
+    sleep()
 print("I died")    
 ```
 ---
@@ -35,13 +37,14 @@ print("I died")
 
 **I am a student of aerospace engineering**
 
-**I've been a programmer for 5+ years**
+**I've been a programmer for 6+ years**
 
 
 >| Language  | Skill  levels |
 >| ------ | ------ |
 >|**C# (Console)(Asp.MVC/RazorPage/Blazor)(WPF/WF)** | `Advanced`
 >|**Python** | `Intermediate->Advanced`
+>|**MicroPython** | `Intermediate`
 >|**Arduino** | `Intermediate`
 >|**Html-Css/Bootstrap** | `Beginner->Intermediate`
 >|**C++** | `Beginner->Intermediate`
@@ -54,7 +57,9 @@ print("I died")
 >| ------ | ------ |
 >|**3D printing** | `Advanced`
 >|**Design with SolidWorks** | `Intermediate`
-
+>|**Datcom** | `Intermediate`
+>|**Xflr5** | `Intermediate`
+>|**Ansys Fluent** | `Beginner`
 
 ---
 
@@ -66,18 +71,19 @@ print("I died")
 
 | TelegramBot | Status | Users Count | Id |
 | ------ | ----------- | ----- | ---- |
-| Group management | Active | 8,500+ | @TI**bot
+| Group management | Inactive | 8,500+ | @TI**bot
 | Get the price of currency adn etc.. | Inactive | 500+ | @Bi**bot
-| Database of files with 20,000+ file | Active | 1000+ | @Fi**bot
-| Support | Active | 500+ | @Ta**bot
+| Database of files with 20,000+ file | Inactive | 1000+ | @Fi**bot
+| Support | Inactive | 500+ | @Ta**bot
 | Get a free vpn | Inactive | 100+ | @op**bot
-| Channel backup | Active | 10+ | @ba**bot
+| Channel backup | Inactive | 10+ | @ba**bot
 | Converts files to links | Inactive | 200+ | @Fi**bot
 | Sales and support | Inactive | 300+ | @TI**bot
-| Account management with ***+ account | Active | 1 | ********
-| Advertising bot | Active | 1 | ********
-| Management Process on the server | Active | 1 | ********
+| Account management with ***+ account | Inactive | 1 | ********
+| Advertising bot | Inactive | 1 | ********
+| Management Process on the server | Inactive | 1 | ********
 | Posting on WordPress site | Inactive | 1 | ********
+| Todo | Active`(Coding...)` | 1 | @To**bot
 
 ### **Bale messenger Bots**
 
@@ -101,6 +107,7 @@ print("I died")
 | Build Zarrinpal link for payment | ZarrinpalPayment
 | Wind tunnel information display software | `No proper name`
 | Bypass censorship program | `No proper name`
+| Proxy finder | `No proper name`
 
 
 ### **Microcontroller**
@@ -110,19 +117,9 @@ print("I died")
 | ------ | ------ |
 | IOT Blazor Server remote control | `WeMos D1 Mini`
 | An alarm device with motion detection capability | `WeMos D1 Mini`
+| Automatic temperature adjustment | `WeMos D1 Mini`
 | IOT Automatic plant watering system | `Arduino Uno`
 | Two degrees of freedom camera control system | `Arduino Uno`
 | Pressure and temperature receiving system for wind tunnel | `Arduino Mega`
 | Three-degrees of freedom table | `Pi Pico - MicroPython`
 | A4988 driver controller library for stepper motor | `Pi Pico - MicroPython`
-
-
-
-
-
-
-
-
-
-
-
