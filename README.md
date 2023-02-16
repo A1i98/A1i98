@@ -22,8 +22,8 @@ while alive:
 print("I died")
 ```
 
-<center>
+<h1 align="center">
+<a href="https://github.com/A1i98/A1i98/blob/main/README2.md">👉README2👈</a>
+</h1>
 
-[👉README2👈](https://raw.githubusercontent.com/A1i98/A1i98/main/README2.md)
 
-</center>
