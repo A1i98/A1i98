@@ -22,8 +22,15 @@ while alive:
 print("I died")
 ```
 
-<h1 align="center">
-<a href="https://github.com/A1i98/A1i98/blob/main/README2.md">👉README2👈</a>
-</h1>
+<dir align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=A1i98&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=A1i98&theme=radical&hide_border=false)<br/>
+
+</dir>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=A1i98&label=&color=11&icon=5&pretty=true" />
+</a>
