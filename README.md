@@ -40,6 +40,6 @@ print("I died")
 <img src="https://github-readme-stats.vercel.app/api?username=A1i98&theme=radical&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A1i98&langs_count=8&layout=compact&theme=radical&hide_border=true" />
 
-<p>
+<a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=A1i98&label=&color=11&icon=5&pretty=true" />
-</p>
+</a>
