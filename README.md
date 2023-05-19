@@ -11,7 +11,9 @@ print("I was born")
 while alive:
     eat()
     youtube()
-    anime()
+    # anime()
+    # manga()
+    readBook()
     code()
     if sad:
         sad.stop()
@@ -23,7 +25,7 @@ print("I died")
 ```
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=A1i98&theme=radical&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true&card_width=600&type=png)]()<br/>
 
 
 <a href="https://visitcount.itsvg.in">
