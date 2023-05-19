@@ -32,13 +32,14 @@ print("I died")
 
 <h3>🔥 Streak Stats</h3>
 
-![A1i98's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true" />
+
 
 <h3>💻 GitHub Profile Stats</h3>
 
-![A1i98's GitHub Streak](https://github-readme-stats.vercel.app/api?username=A1i98&theme=radical&hide_border=true)
-![A1i98's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=A1i98&langs_count=8&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=A1i98&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=A1i98&langs_count=8&layout=compact&theme=radical&hide_border=true" />
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=A1i98&label=&color=11&icon=5&pretty=true" />
-</a>
+<p>
+<img src="https://visitcount.itsvg.in/api?id=A1i98&label=&color=11&icon=5&pretty=true" />
+</p>
