@@ -1,5 +1,11 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF42F7&width=435&lines=5%2B+years+of+coding+experience;Back-End+developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+ <a href="https://github.com/A1i98">
   <img src="https://raw.githubusercontent.com/A1i98/A1i98/main/images.png" />
+ </a>
 </p>
 
 $$
@@ -24,9 +30,14 @@ while alive:
 print("I died")
 ```
 
+<h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true&card_width=600)](https://git.io/streak-stats)
+![A1i98's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true)
 
+<h3>💻 GitHub Profile Stats</h3>
+
+![A1i98's GitHub Streak](https://github-readme-stats.vercel.app/api?username=A1i98&theme=radical&hide_border=true)
+![A1i98's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=A1i98&langs_count=8&layout=compact&theme=radical&hide_border=true)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=A1i98&label=&color=11&icon=5&pretty=true" />
