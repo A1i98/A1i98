@@ -25,7 +25,7 @@ print("I died")
 ```
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true&card_width=600&type=png)]()<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 
 <a href="https://visitcount.itsvg.in">
