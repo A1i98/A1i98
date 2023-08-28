@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF42F7&width=435&lines=6%2B+years+of+coding+experience;Back-End+developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF42F7&width=435&lines=6%2B+years+of+coding+experience;Full-stack+developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,8 +17,6 @@ print("I was born")
 while alive:
     eat()
     youtube()
-    # anime()
-    # manga()
     readBook()
     code()
     if sad:
