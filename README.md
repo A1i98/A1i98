@@ -1,37 +1,24 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF42F7&width=435&lines=6%2B+years+of+coding+experience;Full-stack+developer" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
- <a href="https://github.com/A1i98">
-  <img src="https://raw.githubusercontent.com/A1i98/A1i98/main/images.png" />
- </a>
-</p>
+# Ali Jamshidzadeh
 
-$$
-Life=\int _{brith}^{death}\frac{happiness}{time}\Delta time\=\infty
-$$
+**Aerospace Engineer · Scientific Software Developer**
 
-```python
-print("I was born")
-while alive:
-    eat()
-    youtube()
-    readBook()
-    code()
-    if sad:
-        sad.stop()
-    if notSuccess:
-        tryAgain()
-    print("I'm alive")
-    sleep()
-print("I died")
-```
+`Aerodynamics` · `CFD` · `Numerical Computing` · `Full-Stack Development` · `Industrial Automation`
 
-<h3>🔥 Streak Stats</h3>
+[**Website**](https://jamshidzadeh.ir/) · [**Projects**](https://jamshidzadeh.ir/) · [**FLURSYS**](https://github.com/A1i98/FLURSYS)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=A1i98&theme=radical&hide_border=true" />
+</div>
 
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=A1i98&label=&color=11&icon=5&pretty=true" />
-</a>
+Aerospace engineer with a background in **Aerodynamics at Sharif University of Technology** and **7+ years of software development experience**, working across scientific computing, engineering simulation, and industrial systems.
+
+### Expertise & Tools
+
+- **Programming:** Rust · C# · Python · C++ · TypeScript/JavaScript · SQL · Lua
+- **Software & Data:** .NET / ASP.NET · Blazor · PostgreSQL · SQL Server · MySQL · Linux
+- **Engineering:** CFD · Numerical Methods · ANSYS Fluent · MATLAB/Simulink · SolidWorks · Gmsh
+- **Embedded & Design:** ESP32/ESP8266 · PLC/HMI · PCB Design · 3D Printing
+
+### Selected Projects
+
+[**FLURSYS**](https://github.com/A1i98/FLURSYS) · [**Rust CFD Solver**](https://github.com/A1i98/rust-cfd-lid-driven-cavity) · [**3-DOF Motion Table**](https://jamshidzadeh.ir/posts/projects/design-and-preliminary-testing-of-a-three-degree-of-freedom-motion-table/) · [**PulseRooms**](https://jamshidzadeh.ir/posts/projects/pulserooms/)
